@@ -1,33 +1,30 @@
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Adan</h1></summary>
+    <summary><h1 style="display: inline-block">Hi <img src="https://github.com/SKRTEEEEEE/SKRTEEEEEE/blob/main/resources/img/waving.gif" alt="waving">, I'm Adan</h1></summary>
   </ul>
 </div>
 
-
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <img  src="https://github.com/SKRTEEEEEE/SKRTEEEEEE/blob/main/resources/img/grid-snake.svg"
+       alt="snake" />
 </div>
-
 
 <!--Intro start-->
 
-- 🌱 I’m currently working on **Solidity, NextJS14, MongoDB**
+- 🌱 I’m programming **Solidity, NextJS14, MongoDB**
 
-- ☁️ I’m currently **deploying next gen of web3 dApps.**
+- ☁️ I’m **deploying next gen of web3 dApps.**
 
-- 💬 Ask me about **solidity, react, nextjs, nodejs, mongoDB..**
+<!-- - 💬 Ask me about **solidity, react, nextjs, nodejs, mongoDB..** -->
 
 - 📫 **[Feel free to reach me out](mailto:adanreh.m@gmail.com)**
 
 <!--tech stack icons-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <h2 style="display: inline-block">Technologies That I Use👨🏻‍💻</h2>
   </ul>
 </div>
 
@@ -36,10 +33,10 @@
     <img src="https://skillicons.dev/icons?i=solidity,git,ipfs,express,github,html,css,styledcomponents,tailwind,js,ts,md,prisma,mongodb,nextjs,nodejs,react,redux,threejs,ableton,bash,java,vscode,firebase,py,tensorflow,discord,docker&perline=14" />
  </a>
 </p>
-</br></br></br>
+</br></br>
+<details>
+<summary align="center"><b>GitHub</b> Profile Stats 💻</summary>
 
-
-<!--Stats--!>
 <p align="center">
   <table align="center">
     <tr style="border: none;">
@@ -59,10 +56,13 @@
       </td>
     </tr>
   </table>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img alt="SKRTEEEEEE's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SKRTEEEEEE&theme=github-compact&hide_border=true">
+  </a>
 </p>
+</details>
+</br>
 
-
-
-
+<!--Stats--!>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
