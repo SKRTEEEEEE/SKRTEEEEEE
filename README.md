@@ -50,10 +50,22 @@
 <a href="https://github.com/SKRTEEEEEE/markdowns/blob/main/utils/degrees.md">
   <img width=100% alt="SKRTEEEEEE's Studies" src="https://github.com/SKRTEEEEEE/SKRTEEEEEE/blob/main/resources/img/test-banner-gif.gif">
 </a>
-</details> -->
+</details>
+tech stack info b
+<details>
+<summary style="list-style-type: none;"><pre> Technologies That I Use👨🏻‍💻</pre>
+<p align="center">
+ <a href="https://github.com/SKRTEEEEEE/markdowns/blob/main/utils/techs-lenguajes.md">
+    <img src="https://skillicons.dev/icons?i=solidity,git,ipfs,express,github,html,css,styledcomponents,tailwind,js,ts,md,prisma,mongodb,nextjs,nodejs,react,redux,threejs,ableton,bash,java,vscode,firebase,py,tensorflow,discord,docker&perline=14" />
+ </a>
+</p></summary>
+- Hola mundo
+</br>
+</details>
+-->
 
 <!--tech stack icons-->
-<div id="user-content-toc">
+<div id="user-techs">
   <ul align="center">
     <h2 style="display: inline-block">Technologies That I Use👨🏻‍💻</h2>
   </ul>
