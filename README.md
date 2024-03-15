@@ -7,8 +7,9 @@
 </div>
 
 <div align="center">
+  <a href="#">
   <img  src="https://github.com/SKRTEEEEEE/SKRTEEEEEE/blob/main/resources/img/grid-snake.svg"
-       alt="snake" />
+       alt="snake" /></a>
 </div>
 
 <!--Intro start-->
@@ -44,13 +45,14 @@
 
 
 </details>
-<!--
+
 <details>
 <summary style="list-style-type: none;"><pre> 🙋‍♂️ Info <b>About Me</b></pre></summary>
 <a href="https://github.com/SKRTEEEEEE/markdowns/blob/main/utils/degrees.md">
-  <img width=100% alt="SKRTEEEEEE's Studies" src="https://github.com/SKRTEEEEEE/SKRTEEEEEE/blob/main/resources/img/test-banner-gif.gif">
+  <img width=100% alt="SKRTEEEEEE's Studies" src="https://github.com/SKRTEEEEEE/SKRTEEEEEE/blob/main/resources/img/banner-mydegrees1.gif">
 </a>
 </details>
+<!--
 tech stack info b
 <details>
 <summary style="list-style-type: none;"><pre> Technologies That I Use👨🏻‍💻</pre>
