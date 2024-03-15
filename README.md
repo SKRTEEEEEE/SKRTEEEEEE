@@ -48,7 +48,7 @@
 
 <details>
 <summary style="list-style-type: none;"><pre> 🙋‍♂️ Info <b>About Me</b></pre></summary>
-<a href="https://github.com/SKRTEEEEEE/markdowns/blob/main/utils/degrees.md">
+<a href="https://github.com/SKRTEEEEEE/markdowns/blob/main/about/degrees.md">
   <img width=100% alt="SKRTEEEEEE's Studies" src="https://github.com/SKRTEEEEEE/SKRTEEEEEE/blob/main/resources/img/banner-mydegrees1.gif">
 </a>
 </details>
