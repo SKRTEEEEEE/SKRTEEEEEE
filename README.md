@@ -58,7 +58,7 @@ tech stack info b
 <summary style="list-style-type: none;"><pre> Technologies That I Use👨🏻‍💻</pre>
 <p align="center">
  <a href="https://github.com/SKRTEEEEEE/markdowns/blob/main/utils/techs-lenguajes.md">
-    <img src="https://skillicons.dev/icons?i=solidity,git,ipfs,express,github,html,css,styledcomponents,tailwind,js,ts,md,prisma,mongodb,nextjs,nodejs,react,redux,threejs,ableton,bash,java,vscode,firebase,py,tensorflow,discord,docker&perline=14" />
+     <img src="https://skillicons.dev/icons?i=solidity,ipfs,git,github,md,html,css,styledcomponents,tailwind,npm,bash,powershell,py,vscode,js,ts,nextjs,nodejs,express,react,redux,threejs,mysql,mongodb,firebase,vercel,ableton,discord&perline=14" />
  </a>
 </p></summary>
 - Hola mundo
@@ -75,7 +75,7 @@ tech stack info b
 
 <p align="center">
  <a href="https://github.com/SKRTEEEEEE/markdowns/blob/main/utils/techs-lenguajes.md">
-    <img src="https://skillicons.dev/icons?i=solidity,git,ipfs,express,github,html,css,styledcomponents,tailwind,js,ts,md,prisma,mongodb,nextjs,nodejs,react,redux,threejs,ableton,bash,java,vscode,firebase,py,tensorflow,discord,docker&perline=14" />
+    <img src="https://skillicons.dev/icons?i=solidity,ipfs,git,github,md,html,css,styledcomponents,tailwind,js,ts,mysql,mongodb,firebase,vercel,nextjs,nodejs,express,react,redux,threejs,py,bash,powershell,npm,vscode,ableton,discord&perline=14" />
  </a>
 </p>
 </br>
