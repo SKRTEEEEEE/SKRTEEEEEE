@@ -2,7 +2,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <h1 style="display: inline-block">Hi 👋, I'm Adan</h1>
+    <h1>Hi 👋, I'm Adan</h1>
   </ul>
 </div>
 
@@ -23,7 +23,7 @@
 - 📫 **[Feel free to reach me out](mailto:adanreh.m@gmail.com)**
 
 <details>
-<summary style="list-style-type: none;"><pre>  💻 GitHub <b>Profile Stats</b></pre></summary>
+<summary><pre>  💻 GitHub <b>Profile Stats</b></pre></summary>
 <img width=100% alt="SKRTEEEEEE's Commits Graph" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SKRTEEEEEE&theme=2077">
 
 <p align="center">
@@ -47,7 +47,7 @@
 </details>
 
 <details>
-<summary style="list-style-type: none;"><pre> 🙋‍♂️ Info <b>About Me</b></pre></summary>
+<summary><pre> 🙋‍♂️ Info <b>About Me</b></pre></summary>
 <a href="https://github.com/SKRTEEEEEE/markdowns/blob/main/about/degrees.md">
   <img width=100% alt="SKRTEEEEEE's Studies" src="https://github.com/SKRTEEEEEE/SKRTEEEEEE/blob/main/resources/img/banner-mydegrees1.gif">
 </a>
@@ -69,12 +69,12 @@ tech stack info b
 <!--tech stack icons-->
 <div id="user-techs">
   <ul align="center">
-    <h2 style="display: inline-block">Technologies That I Use👨🏻‍💻</h2>
+    <h2>Technologies That I Use👨🏻‍💻</h2>
   </ul>
 </div>
 
 <p align="center">
- <a href="https://github.com/SKRTEEEEEE/markdowns/blob/main/utils/techs-lenguajes.md">
+ <a href="https://github.com/SKRTEEEEEE/markdowns/blob/main/about/techs-lenguajes.md">
     <img src="https://skillicons.dev/icons?i=solidity,ipfs,git,github,md,html,css,styledcomponents,tailwind,js,ts,mysql,mongodb,firebase,vercel,nextjs,nodejs,express,react,redux,threejs,py,bash,powershell,npm,vscode,ableton,discord&perline=14" />
  </a>
 </p>
