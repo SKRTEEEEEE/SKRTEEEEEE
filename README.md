@@ -34,14 +34,12 @@
   <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SKRTEEEEEE&theme=2077">
   <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SKRTEEEEEE&theme=2077">
 </p>
-<img width=100% alt="SKRTEEEEEE's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SKRTEEEEEE&theme=github-compact&hide_border=true">
-
-
 
 <p align="center">
-  
- <img width="60%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKRTEEEEEE&layout=donut-vertical&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/> <img align="center" width=36% src="https://github-profile-trophy.vercel.app/?username=SKRTEEEEEE&theme=radical&row=2&column=1&margin-h=10&no-bg=true" alt="TROPHY" /> 
+ <img width="54%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKRTEEEEEE&layout=donut-vertical&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/> 
+ <img  width="24%" src="https://github-profile-trophy.vercel.app/?username=SKRTEEEEEE&theme=radical&row=3&column=1&margin-w=10&no-bg=true" alt="TROPHY" /> 
 </p> 
+<img width=100% alt="SKRTEEEEEE's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SKRTEEEEEE&theme=github-compact&hide_border=true">
 
 
 </details>
