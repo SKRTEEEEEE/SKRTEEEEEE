@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <a href="#">
+  <a href="https://github.com/SKRTEEEEEE">
   <img  src="https://github.com/SKRTEEEEEE/SKRTEEEEEE/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
