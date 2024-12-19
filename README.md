@@ -75,7 +75,26 @@ tech stack info b
  <a href="https://github.com/SKRTEEEEEE/markdowns/blob/main/about/techs-lenguajes.md">
     <img src="https://skillicons.dev/icons?i=solidity,ipfs,git,github,md,html,css,styledcomponents,tailwind,js,ts,mysql,mongodb,firebase,vercel,nextjs,nodejs,express,react,redux,threejs,py,bash,powershell,npm,vscode,ableton,discord&perline=14" />
  </a>
+</p> 
+
+<!--
+<p align="center">
+ <a href="https://github.com/SKRTEEEEEE/markdowns/blob/main/about/techs-lenguajes.md">
+    <img src="https://skillicons.dev/icons?i=solidity,ipfs,git,github,obsidian,md,html,css,styledcomponents,tailwind,js,ts,prisma,sqlite,mongodb,mysql,firebase,vercel,nextjs,nodejs,express,sentry,redux,cpp,php,threejs,react,bash,powershell,npm,vscode,notion,ableton,windows&perline=17" />
+ </a>
 </p>
+<div id="user-techs">
+  <ul align="center">
+    <h2>Socials👨🏻‍💻</h2>
+  </ul>
+</div>
+<p align="center">
+ <a href="https://github.com/SKRTEEEEEE/markdowns/blob/main/about/techs-lenguajes.md">
+    <img src="https://skillicons.dev/icons?i=gmail,discord,twitter&perline=17" />
+ </a>
+</p>
+-->
+
 </br>
 
 <!--Stats--!>
