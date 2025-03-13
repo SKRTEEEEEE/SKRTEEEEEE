@@ -22,6 +22,17 @@
 
 - 📫 **[Feel free to reach me out](mailto:adanreh.m@gmail.com)**
 
+
+<details>
+<summary><pre> 🙋‍♂️ Info <b>About Me</b></pre></summary>
+
+  <a href="https://github.com/SKRTEEEEEE/markdowns/blob/main/about/degrees.md">
+  <h2> Full list of my degrees </h2>
+
+  <img width=100% alt="SKRTEEEEEE's Studies" src="https://github.com/SKRTEEEEEE/SKRTEEEEEE/blob/main/resources/img/banner-mydegrees1.gif">
+</a>
+</details>
+
 <details>
 <summary><pre>  💻 GitHub <b>Profile Stats</b></pre></summary>
 <img width=100% alt="SKRTEEEEEE's Commits Graph" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SKRTEEEEEE&theme=2077">
@@ -44,12 +55,7 @@
 
 </details>
 
-<details>
-<summary><pre> 🙋‍♂️ Info <b>About Me</b></pre></summary>
-<a href="https://github.com/SKRTEEEEEE/markdowns/blob/main/about/degrees.md">
-  <img width=100% alt="SKRTEEEEEE's Studies" src="https://github.com/SKRTEEEEEE/SKRTEEEEEE/blob/main/resources/img/banner-mydegrees1.gif">
-</a>
-</details>
+
 <!--
 tech stack info b
 <details>
@@ -70,19 +76,18 @@ tech stack info b
     <h2>Technologies That I Use👨🏻‍💻</h2>
   </ul>
 </div>
+<p align="center">
+ <a href="https://github.com/SKRTEEEEEE/markdowns/blob/main/about/techs-lenguajes.md">
+    <img src="https://skillicons.dev/icons?i=solidity,ipfs,git,github,obsidian,md,html,css,styledcomponents,tailwind,threejs,react,js,ts,prisma,sqlite,mongodb,mysql,nextjs,nodejs,express,py,php,c,cpp,sentry,redux,firebase,vercel,bash,powershell,npm,vscode,notion,ableton,windows&perline=18" />
+ </a>
+</p>
 
+<!--
 <p align="center">
  <a href="https://github.com/SKRTEEEEEE/markdowns/blob/main/about/techs-lenguajes.md">
     <img src="https://skillicons.dev/icons?i=solidity,ipfs,git,github,md,html,css,styledcomponents,tailwind,js,ts,mysql,mongodb,firebase,vercel,nextjs,nodejs,express,react,redux,threejs,py,bash,powershell,npm,vscode,ableton,discord&perline=14" />
  </a>
 </p> 
-
-<!--
-<p align="center">
- <a href="https://github.com/SKRTEEEEEE/markdowns/blob/main/about/techs-lenguajes.md">
-    <img src="https://skillicons.dev/icons?i=solidity,ipfs,git,github,obsidian,md,html,css,styledcomponents,tailwind,js,ts,prisma,sqlite,mongodb,mysql,firebase,vercel,nextjs,nodejs,express,sentry,redux,cpp,php,threejs,react,bash,powershell,npm,vscode,notion,ableton,windows&perline=17" />
- </a>
-</p>
 <div id="user-techs">
   <ul align="center">
     <h2>Socials👨🏻‍💻</h2>
