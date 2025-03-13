@@ -25,11 +25,21 @@
 
 <details>
 <summary><pre> <h2>  🙋‍♂️ Info <b>About Me</b></h2></br></pre></summary>
- <h3><a href="https://github.com/SKRTEEEEEE/markdowns/blob/main/about/degrees.md"> Profile page</a> </h3>
-  <a href="https://github.com/SKRTEEEEEE/markdowns/blob/main/about/degrees.md">
-  <img width=100% alt="SKRTEEEEEE's Studies" src="https://github.com/SKRTEEEEEE/SKRTEEEEEE/blob/main/resources/img/banner-mydegrees1.gif">
+
+ <h3><a href="https://profile-skrt.vercel.app/"> Profile page</a> </h3>
+  <a href="https://profile-skrt.vercel.app/">
+  <img width=100% alt="SKRTEEEEEE's Profile Page" src="https://github.com/SKRTEEEEEE/SKRTEEEEEE/blob/SKRTEEEEEE-patch-1/resources/img/standard.gif">
 </a>
+ 
 <p>Here, you'll find an overview of my skills, experience, and certified achievements. This page focuses on my level as a programmer, showcasing my expertise through projects and certifications. For more details on my programming journey, check out other pages covering my full technical background. Explore my style by seeing the work that drives my passion for innovation 💻.</p>
+<ul>
+  <li>
+<h4><a href="https://profile-skrt.vercel.app/"> Featured Open-Source</a> </h4>
+  <a href="https://profile-skrt.vercel.app/">
+  <img alt="SKRTEEEEEE's Profile Page" src="https://github.com/SKRTEEEEEE/SKRTEEEEEE/blob/SKRTEEEEEE-patch-1/resources/img/open-source-projects.gif">
+</a>
+<p>Discover a collection of cutting-edge open-source projects showcasing innovation and expertise. Explore real-world solutions, best practices, and high-quality code 🚀.</p></li>
+</ul>
 
   <h3><a href="https://github.com/SKRTEEEEEE/markdowns/blob/main/about/degrees.md"> Full list of my degrees</a> </h3>
   <a href="https://github.com/SKRTEEEEEE/markdowns/blob/main/about/degrees.md">
