@@ -50,8 +50,18 @@
 
 <details>
 <summary><pre>   💻 GitHub <b>Profile Stats</b></pre></summary>
-<img width=100% alt="SKRTEEEEEE's Commits Graph" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SKRTEEEEEE&theme=2077">
+  <h3><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> Work hard</h2>
 
+<img width=100% alt="SKRTEEEEEE's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SKRTEEEEEE&theme=github-compact&hide_border=true">
+
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKRTEEEEEE&layout=compact&theme=transparent&langs_count=12" height="360">
+ <img  src="https://github-profile-trophy.vercel.app/?username=SKRTEEEEEE&theme=radical&row=2&column=2&margin-w=2&no-bg=true" alt="TROPHY" height="360"/> 
+</p> 
+
+<p align="center">
+<img width=96% alt="SKRTEEEEEE's Commits Graph" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SKRTEEEEEE&theme=2077">
+</p> 
 <p align="center">
   <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SKRTEEEEEE&theme=2077">
   <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SKRTEEEEEE&theme=2077&utcOffset=1">
@@ -61,11 +71,6 @@
   <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SKRTEEEEEE&theme=2077">
 </p>
 
-<p align="center">
- <img width="54%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKRTEEEEEE&layout=donut-vertical&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/> 
- <img  width="24%" src="https://github-profile-trophy.vercel.app/?username=SKRTEEEEEE&theme=radical&row=3&column=1&margin-w=10&no-bg=true" alt="TROPHY" /> 
-</p> 
-<img width=100% alt="SKRTEEEEEE's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SKRTEEEEEE&theme=github-compact&hide_border=true">
 
 
 </details>
@@ -92,7 +97,7 @@ tech stack info b
   </ul>
 </div>
 <p align="center">
- <a href="https://github.com/SKRTEEEEEE/markdowns/blob/main/about/techs-lenguajes.md">
+ <a href="https://github.com/SKRTEEEEEE/markdowns/blob/main/about/techs.md">
     <img src="https://skillicons.dev/icons?i=solidity,ipfs,git,github,obsidian,md,html,css,styledcomponents,tailwind,threejs,react,js,ts,prisma,sqlite,mongodb,mysql,nextjs,nodejs,express,py,php,c,cpp,sentry,redux,firebase,vercel,bash,powershell,npm,vscode,notion,ableton,windows&perline=18" />
  </a>
 </p>
