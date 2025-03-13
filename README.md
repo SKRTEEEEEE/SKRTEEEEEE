@@ -24,17 +24,22 @@
 
 
 <details>
-<summary><pre> 🙋‍♂️ Info <b>About Me</b></pre></summary>
-
+<summary><pre> <h2>  🙋‍♂️ Info <b>About Me</b></h2></br></pre></summary>
+ <h3><a href="https://github.com/SKRTEEEEEE/markdowns/blob/main/about/degrees.md"> Profile page</a> </h3>
   <a href="https://github.com/SKRTEEEEEE/markdowns/blob/main/about/degrees.md">
-  <h2> Full list of my degrees </h2>
-
   <img width=100% alt="SKRTEEEEEE's Studies" src="https://github.com/SKRTEEEEEE/SKRTEEEEEE/blob/main/resources/img/banner-mydegrees1.gif">
 </a>
+<p>Here, you'll find an overview of my skills, experience, and certified achievements. This page focuses on my level as a programmer, showcasing my expertise through projects and certifications. For more details on my programming journey, check out other pages covering my full technical background. Explore my style by seeing the work that drives my passion for innovation 💻.</p>
+
+  <h3><a href="https://github.com/SKRTEEEEEE/markdowns/blob/main/about/degrees.md"> Full list of my degrees</a> </h3>
+  <a href="https://github.com/SKRTEEEEEE/markdowns/blob/main/about/degrees.md">
+  <img width=100% alt="SKRTEEEEEE's Studies" src="https://github.com/SKRTEEEEEE/SKRTEEEEEE/blob/main/resources/img/banner-mydegrees1.gif">
+</a>
+<p>Discover all my certified and approved studies, including bootcamps, online courses, in-person training, degrees... And explore my full list of qualifications and expertise, backed by recognized institutions and industry standards 🧑‍🏫.</p>
 </details>
 
 <details>
-<summary><pre>  💻 GitHub <b>Profile Stats</b></pre></summary>
+<summary><pre>   💻 GitHub <b>Profile Stats</b></pre></summary>
 <img width=100% alt="SKRTEEEEEE's Commits Graph" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SKRTEEEEEE&theme=2077">
 
 <p align="center">
