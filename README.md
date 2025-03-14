@@ -50,7 +50,7 @@
 
 <details>
 <summary><pre>   💻 GitHub <b>Profile Stats</b></pre></summary>
-  <h3><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> Work hard</h2>
+  <h3><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSKRTEEEEEE%2FSKRTEEEEEE&count_bg=%23BD3DC8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=true"/></h2>
 
 <img width=100% alt="SKRTEEEEEE's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SKRTEEEEEE&theme=github-compact&hide_border=true">
 
