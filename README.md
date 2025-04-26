@@ -14,9 +14,10 @@
 
 <!--Intro start-->
 
-- 🌱 I’m programming **Solidity, NextJS14, MongoDB**
 
-- ☁️ I’m **deploying next gen of web3 dApps.**
+- 💖 Passion for **IIOT, Blockchain and Fullstack** development
+  
+- 🌱 Love to develop with **NextJS and Typescript**
 
 <!-- - 💬 Ask me about **solidity, react, nextjs, nodejs, mongoDB..** -->
 
