@@ -15,7 +15,7 @@
 <!--Intro start-->
 
 
-- 💖 Passion for **IIOT, Blockchain and Fullstack** development
+- 💖 Passion for **IIoT, Blockchain and Fullstack** development
   
 - 🌱 Love to develop with **NextJS and Typescript**
 
@@ -24,7 +24,7 @@
 - 📫 **[Feel free to reach me out](mailto:adanreh.m@gmail.com)**
 
 
-<details>
+<details open>
 <summary><pre> <h2>  🙋‍♂️ Info <b>About Me</b></h2></br></pre></summary>
 
  <h3><a href="https://profile-skrt.vercel.app/"> Profile page</a> </h3>
