@@ -35,8 +35,8 @@
 <p>Here, you'll find an overview of my skills, experience, and certified achievements. This page focuses on my level as a programmer, showcasing my expertise through projects and certifications. For more details on my programming journey, check out other pages covering my full technical background. Explore my style by seeing the work that drives my passion for innovation 💻.</p>
 <ul>
   <li>
-<h4><a href="https://profile-skrt.vercel.app/"> Featured Open-Source</a> </h4>
-  <a href="https://profile-skrt.vercel.app/">
+<h4><a href="https://profile-skrt.vercel.app/en/ceo/portfolio"> Featured Open-Source</a> </h4>
+  <a href="https://profile-skrt.vercel.app/en/ceo/portfolio">
   <img alt="SKRTEEEEEE's Profile Page" src="https://github.com/SKRTEEEEEE/SKRTEEEEEE/blob/SKRTEEEEEE-patch-1/resources/img/open-source-projects.gif">
 </a>
 <p>Discover a collection of cutting-edge open-source projects showcasing innovation and expertise. Explore real-world solutions, best practices, and high-quality code 🚀.</p></li>
