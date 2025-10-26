@@ -99,7 +99,7 @@ tech stack info b
 </div>
 <p align="center">
  <a href="https://github.com/SKRTEEEEEE/markdowns/blob/main/about/techs.md">
-    <img src="https://skillicons.dev/icons?i=solidity,ipfs,git,github,obsidian,md,html,css,styledcomponents,tailwind,threejs,react,js,ts,prisma,sqlite,mongodb,mysql,nextjs,nodejs,express,py,php,c,cpp,sentry,redux,firebase,vercel,bash,powershell,npm,vscode,notion,ableton,windows&perline=18" />
+    <img src="https://skillicons.dev/icons?i=github,githubactions,obsidian,md,ipfs,git,docker,solidity,html,css,astro,js,ts,jest,styledcomponents,tailwind,threejs,react,nextjs,nodejs,nestjs,express,py,php,c,cpp,sentry,redux,postman,prisma,sqlite,mongodb,supabase,graphql,mysql,redis,vercel,firebase,netlify,bash,powershell,pnpm,npm,bots,discord,twitter,linkedin,vscode,notion,gmail,ableton,windows,debian,linux&perline=18" />
  </a>
 </p>
 
@@ -116,7 +116,7 @@ tech stack info b
 </div>
 <p align="center">
  <a href="https://github.com/SKRTEEEEEE/markdowns/blob/main/about/techs-lenguajes.md">
-    <img src="https://skillicons.dev/icons?i=gmail,discord,twitter&perline=17" />
+    <img src="https://skillicons.dev/icons?i=&perline=17" />
  </a>
 </p>
 -->
