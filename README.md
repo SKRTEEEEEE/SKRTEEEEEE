@@ -24,6 +24,8 @@
 - 📫 **[Feel free to reach me out](mailto:adanreh.m@gmail.com)**
 
 
+
+
 <details open>
 <summary><pre> <h2>  🙋‍♂️ Info <b>About Me</b></h2></br></pre></summary>
 
@@ -47,6 +49,16 @@
   <img width=100% alt="SKRTEEEEEE's Studies" src="https://github.com/SKRTEEEEEE/SKRTEEEEEE/blob/main/resources/img/banner-mydegrees1.gif">
 </a>
 <p>Discover all my certified and approved studies, including bootcamps, online courses, in-person training, degrees... And explore my full list of qualifications and expertise, backed by recognized institutions and industry standards 🧑‍🏫.</p>
+</details>
+
+<details>
+<summary><pre>   〽️ GitHub <b>Metrics</b></pre></summary>
+
+  <img width=100% alt="SKRTEEEEEE's Profile Page" src="https://metrics.lecoq.io/SKRTEEEEEE?template=classic&isocalendar=1&languages=1&lines=1&people=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=22&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers&people.shuffle=false&config.timezone=Europe%2FMadrid">
+<!--
+  <img width=100% alt="SKRTEEEEEE's Profile Page" src="https://metrics.lecoq.io/SKRTEEEEEE?template=classic&isocalendar=1&languages=1&lines=1&people=1&habits=1&activity=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=22&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers&people.shuffle=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Europe%2FMadrid">
+  -->
+
 </details>
 
 <details>
