@@ -26,7 +26,7 @@
 
 
 
-<details open>
+<details>
 <summary><pre> <h2>  🙋‍♂️ Info <b>About Me</b></h2></br></pre></summary>
 
  <h3><a href="https://profile-skrt.vercel.app/"> Profile page</a> </h3>
